@@ -1,0 +1,40 @@
+html, body{
+  height: 100%
+}
+
+*{
+  margin: 0;
+}
+
+h1{
+  position: absolute;
+  font-size: 100px;
+  color: white;
+  padding-left: 330px;
+  top: 350px;
+}
+
+.sect{
+  height: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.subSect{
+  height: 100%;
+  background-color: orange;
+}
+
+.sect1{
+  background-image: url("images/image4.jpg");
+}
+
+.sect2{
+  background-image: url("images/image2.jpg");
+}
+
+.sect3{
+  height: 100%;
+  background-size: cover;
+  background-image: url("images/image5.jpg");
+}
