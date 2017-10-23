@@ -12,6 +12,24 @@ h1{
   color: white;
   padding-left: 330px;
   top: 350px;
+  text-align: center;
+}
+
+
+#p1{
+  position: absolute;
+  top: 540px;
+  padding-left: 490px;
+  color: white;
+  font-size: 42px;
+}
+
+#p2{
+  position: absolute;
+  top: 840px;
+  padding-left: 220px;
+  color: white;
+  font-size:
 }
 
 .sect{
@@ -21,7 +39,7 @@ h1{
 }
 
 .subSect{
-  height: 100%;
+  height: 50%;
   background-color: orange;
 }
 
